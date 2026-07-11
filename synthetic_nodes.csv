@@ -1,0 +1,31 @@
+node_id,cloud_provider,resource_type,ip,region
+i-aws-186a0,AWS,Kubernetes Pod,10.0.1.10,us-east-1
+i-aws-186a1,AWS,Kubernetes Pod,10.0.1.11,eu-west-1
+i-aws-186a2,AWS,VM,10.0.1.12,us-east-1
+i-aws-186a3,AWS,Kubernetes Pod,10.0.1.13,us-west-2
+i-aws-186a4,AWS,Kubernetes Pod,10.0.1.14,eu-west-1
+i-aws-186a5,AWS,Kubernetes Pod,10.0.1.15,eu-west-1
+i-aws-186a6,AWS,VM,10.0.1.16,eu-west-1
+i-aws-186a7,AWS,Container,10.0.1.17,us-east-1
+i-aws-186a8,AWS,Container,10.0.1.18,us-west-2
+i-aws-186a9,AWS,Container,10.0.1.19,us-west-2
+i-aws-186aa,AWS,VM,10.0.1.20,us-east-1
+i-aws-186ab,AWS,Container,10.0.1.21,us-west-2
+i-aws-186ac,AWS,VM,10.0.1.22,us-east-1
+i-aws-186ad,AWS,VM,10.0.1.23,eu-west-1
+i-aws-186ae,AWS,Kubernetes Pod,10.0.1.24,eu-west-1
+azure-vm-00,Azure,Container,10.1.1.10,westeurope
+azure-vm-01,Azure,Container,10.1.1.11,westus2
+azure-vm-02,Azure,Kubernetes Pod,10.1.1.12,westus2
+azure-vm-03,Azure,Kubernetes Pod,10.1.1.13,westeurope
+azure-vm-04,Azure,VM,10.1.1.14,westeurope
+azure-vm-05,Azure,VM,10.1.1.15,westeurope
+azure-vm-06,Azure,Kubernetes Pod,10.1.1.16,eastus
+azure-vm-07,Azure,VM,10.1.1.17,westeurope
+azure-vm-08,Azure,Container,10.1.1.18,eastus
+azure-vm-09,Azure,Container,10.1.1.19,westus2
+azure-vm-10,Azure,Container,10.1.1.20,eastus
+azure-vm-11,Azure,Container,10.1.1.21,eastus
+azure-vm-12,Azure,Container,10.1.1.22,westeurope
+azure-vm-13,Azure,Kubernetes Pod,10.1.1.23,eastus
+azure-vm-14,Azure,Kubernetes Pod,10.1.1.24,westeurope
